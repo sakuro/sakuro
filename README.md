@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<hr />
+<address>
+Contact: 
+<a rel="me" href="https://twitter.com/sakuro">Twitter</a> / <a rel="me" href="https://imastodon.net/@sakuro">Mastodon</a>
+</address>
