@@ -3,7 +3,7 @@
 <hr />
 <address>
 Contact:
-<a rel="me" href="https://twitter.com/sakuro">:bird:</a> / 
+<a rel="me" href="https://twitter.com/sakuro"><img src="assets/icons/twitter.svg" alt="Twitter" height="10em" vertical-align="bottom" align-self="center" display="inline-flex"></a> /
 <a rel="me" href="https://bsky.app/profile/2238.club">🟦</a> /
-<a rel="me" href="https://imastodon.net/@sakuro">:elephant:</a>
+<a rel="me" href="https://imastodon.net/@sakuro"><img src="assets/icons/mastodon.svg" alt="Mastodon" height="10em" vertical-align="bottom" align-self="center" display="inline-flex"></a>
 </address>
