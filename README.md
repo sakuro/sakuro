@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<hr />
 <address>
 Contact:
 <a rel="me" href="https://twitter.com/sakuro"><img src="assets/icons/twitter.svg" alt="Twitter" height="10em" vertical-align="bottom" align-self="center" display="inline-flex"></a> /
