@@ -1,6 +1,6 @@
 <address>
 Contact:
-<a rel="me" href="https://twitter.com/sakuro"><img src="assets/icons/twitter.svg" alt="Twitter" height="10em" vertical-align="bottom" align-self="center" display="inline-flex"></a> /
-<a rel="me" href="https://bsky.app/profile/2238.club">🟦</a> /
-<a rel="me" href="https://imastodon.net/@sakuro"><img src="assets/icons/mastodon.svg" alt="Mastodon" height="10em" vertical-align="bottom" align-self="center" display="inline-flex"></a>
+<a rel="me" href="https://x.com/sakuro">X</a> /
+<a rel="me" href="https://bsky.app/profile/2238.club">Bluesky</a> /
+<a rel="me" href="https://imastodon.net/@sakuro">Mastodon</a>
 </address>
